@@ -1,6 +1,6 @@
 # Youtube-member-stream-sc-fetcher
 
-Just a project for simp like me to find where is my SC in membership stream to find out when will my oshi waifu read it. It will write a log file so that you can search it by yourself.
+Just a project for simp like me to find where is my SC in membership stream and to find out when will my oshi waifu read it. It will write a log file so that you can search it by yourself.
 
 ---
 Here is a step-by-step guide on how to extract the necessary authentication headers and tokens from a YouTube video using your browser's Developer Tools.
